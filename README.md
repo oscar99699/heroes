@@ -1,14 +1,14 @@
-Instalación 
+# Instalación 
 
 1. La version online está disponible en :  http://herroes.s3-website.us-east-2.amazonaws.com/
 2. Para el Backend : 
-	2.1 . Ejecutar "npm install"
-	2.2 . Ejecutar "npm run start" y el api estará disponible en http://localhost:3000 , el frontend ya tiene configurado está url
-3. Para el Frontend : 
-	3.1 . Ejecutar "npm install"
-	3.2 . Ejecutar "npm run dev"
+	- 2.1 . Ejecutar "npm install"
+	- 2.2 . Ejecutar "npm run start" y el api estará disponible en http://localhost:3000 , el frontend ya tiene configurado está url
+4. Para el Frontend : 
+	- 3.1 . Ejecutar "npm install"
+	- 3.2 . Ejecutar "npm run dev" y el aplicación estara lista en http://localhost:5173/
 
-Aplicación
+# Aplicación
 
 La aplicación consiste : 
 
@@ -18,12 +18,12 @@ La aplicación consiste :
 
 La aplicación tambien contiene unas funcionalidades extras, sólo deben de buscar a Thanos.
 
-Tecnologías y librerias Usadas : 
+# Tecnologías y librerias Usadas : 
 
-Backend 
+## Backend 
 
 1. NestJS,NodeJs,Typescript,MongoDB
 
-FrontEnd.
+## FrontEnd.
 
 2. ReactJS,NodeJS,Typescript,TailWindcss
